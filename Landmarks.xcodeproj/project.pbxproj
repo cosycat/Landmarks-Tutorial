@@ -13,6 +13,7 @@
 		E79B688A252C961A00635B47 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E79B6889252C961A00635B47 /* Preview Assets.xcassets */; };
 		E79B6893252CA02A00635B47 /* CircleImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = E79B6892252CA02A00635B47 /* CircleImage.swift */; };
 		E79B6896252CA1C900635B47 /* MapView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E79B6895252CA1C900635B47 /* MapView.swift */; };
+		E79B6899252CC06E00635B47 /* Models in Resources */ = {isa = PBXBuildFile; fileRef = E79B6898252CC06E00635B47 /* Models */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		E79B688B252C961A00635B47 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		E79B6892252CA02A00635B47 /* CircleImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircleImage.swift; sourceTree = "<group>"; };
 		E79B6895252CA1C900635B47 /* MapView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapView.swift; sourceTree = "<group>"; };
+		E79B6898252CC06E00635B47 /* Models */ = {isa = PBXFileReference; lastKnownFileType = folder; name = Models; path = "../../../Downloads/BuildingListsAndNavigation/StartingPoint/Landmarks/Landmarks copy/Models"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 				E79B6886252C961A00635B47 /* Assets.xcassets */,
 				E79B6892252CA02A00635B47 /* CircleImage.swift */,
 				E79B6895252CA1C900635B47 /* MapView.swift */,
+				E79B6898252CC06E00635B47 /* Models */,
 				E79B688B252C961A00635B47 /* Info.plist */,
 				E79B6888252C961A00635B47 /* Preview Content */,
 			);
@@ -132,6 +135,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E79B6899252CC06E00635B47 /* Models in Resources */,
 				E79B688A252C961A00635B47 /* Preview Assets.xcassets in Resources */,
 				E79B6887252C961A00635B47 /* Assets.xcassets in Resources */,
 			);
